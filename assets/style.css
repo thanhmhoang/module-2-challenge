@@ -136,27 +136,12 @@ main {
     width: 500px;
 }
 
-.card1 img {
+.cardbig img {
     width: 1400px;
     max-height: 400px;
 }
 
-.card2 img {
-    width: 700px;
-    max-height: 400px;
-}
-
-.card3 img {
-    width: 700px;
-    max-height: 400px;
-}
-
-.card4 img {
-    width: 700px;
-    max-height: 400px;
-}
-
-.card5 img {
+.card img {
     width: 700px;
     max-height: 400px;
 }
@@ -172,3 +157,4 @@ a:hover {
     color: black;
     cursor: pointer;
 }
+ 
