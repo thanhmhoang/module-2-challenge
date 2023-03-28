@@ -94,13 +94,6 @@ main {
     font-size: 25px;
     align-items: right;
 }
-/* 
-.section1, .section2, .section3 {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    margin: 10px;
-} */
 
 #contactme {
     display: block;
@@ -111,13 +104,6 @@ main {
     margin-inline-end: 0px;
     font-weight: bond;
 }
-/* 
-.last-section li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
-} */
 
 .last-section {
     display: flex;
@@ -147,9 +133,46 @@ main {
 }
 
 .project-container img {
-    width: 500px;;
+    width: 500px;
 }
 
 .card1 img {
-    width: 1000px;
+    width: 1400px;
+    max-height: 400px;
+}
+
+.card2 img {
+    width: 700px;
+    max-height: 400px;
+}
+
+.card3 img {
+    width: 700px;
+    max-height: 400px;
+}
+
+.card4 img {
+    width: 700px;
+    max-height: 400px;
+}
+
+.card5 img {
+    width: 700px;
+    max-height: 400px;
+}
+
+.overlay {
+    position: relative;
+    color:black;
+    background-color: lightsteelblue;
+    width: fit-content;
+}
+
+a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+#image4 {
+    
 }
